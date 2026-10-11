@@ -11,7 +11,8 @@ machine learning, eight of them at Oracle, the last three in its AI Center of Ex
 - **[Fixed-Price AI Build](https://jmh-datasciences.com/custom-ai/)**: one concrete AI job,
   built on your own data and tested on your real examples before you rely on it.
 - **[Senior AI Help](https://jmh-datasciences.com/senior-ai-help/)**: hands-on help, by the
-  hour, for teams already doing AI with more work than hands.
+  hour, for teams already doing AI with more work than hands, or a fresh pair of eyes
+  on a build that has stalled.
 
 ## Public work
 
